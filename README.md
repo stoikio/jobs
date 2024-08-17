@@ -100,4 +100,4 @@ Stoïk is structured into two core teams and four supporting tech squads:
 ---
 
 
-Ready to help secure Europe’s digital landscape? [Apply now](mailto:nicolas.sayer@stoik.io)!
+Ready to help secure Europe’s digital landscape? [Apply now](mailto:nicolas.sayer@stoik.io) and join us at Stoïk!
