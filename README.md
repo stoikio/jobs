@@ -1,24 +1,31 @@
-# Tech jobs @ Stoïk
+# Tech Jobs @ Stoïk
 
-![333376246-0b4e6a12-da48-4f1b-8780-a2422c598444-min](https://github.com/user-attachments/assets/b2c7e1d5-6876-4fc6-80db-513d72fb084c)
+![We're hiring](https://github.com/user-attachments/assets/b2c7e1d5-6876-4fc6-80db-513d72fb084c)
 
 ### Our mission is to secure Europe's economic fabric against cyber risk.
 
-The digitalization of companies has amplified cyber risk, posing significant financial and operational threats. Stoïk offers a unique solution that combines cybersecurity software with insurance, empowering businesses to manage and mitigate this risk. By partnering with over 1,000 insurance brokers across Europe, Stoïk equips them to guide clients in mastering cyber risk, protecting companies every day.
+As companies digitalize, the risks of cyber threats grow, leading to significant financial and operational challenges. Stoïk combines cutting-edge cybersecurity software with insurance solutions to help businesses manage and mitigate these risks. By partnering with over 1,000 insurance brokers across Europe, we empower them to help their clients effectively address and protect against cyber threats.
 
 
 ---
 
 
-## Open positions
+## Open Positions
 
-- **JS Full-stack Engineer** in the _Web application squad_ — Technical test [here](https://google.com)
-- **Python Back-end Engineer** in the _Risk squad_ — Technical test [here](https://google.com)
-- **Golang Back-end Engineer** in the _Cyber-tools squad_ — Technical test [here](https://google.com)
-- **DevOps Engineer** in the _Infra squad_ — Technical test [here](https://google.com)
+- **JS Full-stack Engineer** (Web Application Squad)  
+  Technical test: [Link](https://google.com)
+
+- **Python Back-end Engineer** (Risk Squad)  
+  Technical test: [Link](https://google.com)
+
+- **Golang Back-end Engineer** (Cyber-tools Squad)  
+  Technical test: [Link](https://google.com)
+
+- **DevOps Engineer** (Infra Squad)  
+  Technical test: [Link](https://google.com)
 
 
-## Applying
+## How to Apply
 
 1. **Apply**: Send an email to [nicolas.sayer@stoik.io](mailto:nicolas.sayer@stoik.io) with your LinkedIn profile, no resume required (5 min).
 2. **Initial Interview**: A video call to introduce Stoïk and discuss the role (30 min).
@@ -28,45 +35,71 @@ The digitalization of companies has amplified cyber risk, posing significant fin
 If all goes well, we'll make you a full-time job offer.
 
 
-## The team
+## Our Teams
 
-Stoïk is structured in two teams and four supporting tech squads:
+Stoïk is structured into two core teams and four supporting tech squads:
 
-### Teams:
-- **Business Team**: Focused on simplifying the sale of complex cyber-insurance policies, making it easier for brokers to protect their clients.
-- **Security Team**: Dedicated to safeguarding our clients from cyber threats, ensuring robust protection and peace of mind.
+### Core Teams
 
-### Tech squads
-- **Risk squad**: The core of our insurance and pricing model.
-  - People who love transforming math and logic problems in code. 
-  - _Tech stack: Django, PostgreSQL_.
-- **Web application squad**: Develop and maintain Stoïk's main platform, [app.stoik.io](https://app.stoik.io).
-  - People who love creating top-of-the-art user experiences.
-  - _Tech stack: TypeScript, React, NestJS, PostgreSQL_.
-- **Cyber-tools squad**: Develop cyber-tools that protect our clients.
-  - People who loves (or want to learn) cybersecurity software development.
-  - _Tech stack: Golang, Kubernetes_.
-- **Infra squad**: Manage the infrastructure of the above teams + the data team + assist in resolving cyber incidents.
-  - People making sure the ship is solid.
-  - _Tech stack: Kubernetes, Terraform_.
+- **Business Team**: Simplifies the sale of complex cyber-insurance policies, making it easier for brokers to protect their clients.
+- **Security Team**: Focuses on safeguarding our clients from cyber threats, ensuring robust protection and peace of mind.
 
-![Frame 7](https://github.com/user-attachments/assets/260f71e5-bea3-43bc-bd64-94ead3a3898a)
+### Tech Squads
+
+- **Risk Squad**
+  - **Focus**: Core of our insurance and pricing model.
+  - **Ideal for**: Those who enjoy transforming math and logic problems into code.
+  - **Tech Stack**: Django, PostgreSQL.
+
+- **Web Application Squad**
+  - **Focus**: Development and maintenance of Stoïk's main platform, [app.stoik.io](https://app.stoik.io).
+  - **Ideal for**: Those passionate about creating top-notch user experiences.
+  - **Tech Stack**: TypeScript, React, NestJS, PostgreSQL.
+
+- **Cyber-tools Squad**
+  - **Focus**: Development of cyber-tools to protect our clients.
+  - **Ideal for**: Those interested in or eager to learn cybersecurity software development.
+  - **Tech Stack**: Golang, Kubernetes.
+
+- **Infra Squad**
+  - **Focus**: Management of infrastructure for tech and data teams, and assistance with cyber incident resolution.
+  - **Ideal for**: Those dedicated to maintaining a solid operational foundation.
+  - **Tech Stack**: Kubernetes, Terraform.
+
+![Frame 7](https://github.com/user-attachments/assets/918a7194-eb6a-4e7f-90bb-181ae088a29a)
 
 
 ## Perks
 
 - **High-end Equipment**: Access to top-tier computer and tech tools.
-- **Challenging Work**: Engage with complex engineering problems within a highly motivated team (only 1 team member has left since Stoïk's creation).
-- **Prime Location**: Modern office in the heart of Paris.
+- **Challenging Work**: Solve complex engineering problems within a highly motivated team (only 1 team member has left since Stoïk’s creation).
+- **Prime Location**: Modern office in central Paris.
 - **Flexibility**: Flexible remote work policy and generous time off.
 - **Comprehensive Benefits**: Full French social benefits including health care, meal vouchers, and commuting support.
 
 
 ## FAQ
 
-- **Are you open to remote work?** Yes, but applicants must be based in the Paris area. We offer a very flexible remote policy.
-- **What kind of contract is available?** We are hiring for full-time positions only. No internships, part-time roles, or student positions.
-- **What is the size of the team?** Stoïk has a team of 60 members, including 15 engineers focused on tech.
-- **What is the typical work culture at Stoïk?** We foster a collaborative and fast-paced environment centered around innovation and teamwork. Transparency, continuous learning, and personal growth are key values.
-- **What is the salary range for these positions?** We offer competitive salaries. Compensation details are discussed during the interview process.
-- **Do you give some stocks?** Yes, every team member is offered equity as part of their compensation package.
+- **Are you open to remote work?**  
+  Yes, but applicants must be based in the Paris area. We offer a very flexible remote policy.
+
+- **What kind of contract is available?**  
+  We are hiring for full-time positions only. Internships, part-time roles, and student positions are not available.
+
+- **What is the size of the team?**  
+  Stoïk has a team of 60 members, including 15 engineers working in the tech-team.
+
+- **What is the typical work culture at Stoïk?**  
+  We have a collaborative and fast-paced environment centered around innovation and teamwork. We value transparency, continuous learning, and personal growth.
+
+- **What is the salary range for these positions?**  
+  We offer competitive salaries. Specific compensation details are discussed during the interview process.
+
+- **Do you offer equity?**  
+  Yes, every team member is provided with equity as part of their compensation package.
+
+
+---
+
+
+Ready to help secure Europe’s digital landscape? [Apply now](mailto:nicolas.sayer@stoik.io) and join us at Stoïk!
