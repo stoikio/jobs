@@ -64,7 +64,7 @@ Stoïk is structured into two core teams and four supporting tech squads:
   - **Ideal for**: Those dedicated to maintaining a solid operational foundation.
   - **Tech Stack**: Kubernetes, Terraform.
 
-![Our teams](https://github.com/user-attachments/assets/90097d73-9229-4031-a186-ea8ac632b5f4)
+![Our teams](https://github.com/user-attachments/assets/a1e14a38-54a6-4f74-bd5a-3a7593943bb3)
 
 
 ## Perks
