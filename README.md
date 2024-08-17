@@ -1,4 +1,4 @@
-# Tech Jobs @ Stoïk
+# Tech jobs @ Stoïk
 
 ![We're hiring](https://github.com/user-attachments/assets/b2c7e1d5-6876-4fc6-80db-513d72fb084c)
 
@@ -10,7 +10,7 @@ The digitalization of companies has amplified cyber risk, posing significant fin
 ---
 
 
-## Open Positions
+## Open positions
 
 - **JS Full-stack Engineer** in the _Application squad_  
   Technical test: [Link](https://google.com)
@@ -25,7 +25,7 @@ The digitalization of companies has amplified cyber risk, posing significant fin
   Technical test: [Link](https://google.com)
 
 
-## How to Apply
+## How to apply
 
 1. **Apply**: Send an email to [tech-jobs@stoik.io](mailto:nicolas.sayer@stoik.io) with your LinkedIn profile, no resume required (5 min).
 2. **Initial Interview**: A video call to introduce Stoïk and discuss the role (30 min).
@@ -35,7 +35,7 @@ The digitalization of companies has amplified cyber risk, posing significant fin
 If all goes well, we'll make you a full-time job offer.
 
 
-## Our Teams
+## Our teams
 
 Stoïk is structured into two core teams and four supporting tech squads:
 
