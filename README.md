@@ -27,7 +27,7 @@ The digitalization of companies has amplified cyber risk, posing significant fin
 
 ## How to Apply
 
-1. **Apply**: Send an email to [nicolas.sayer@stoik.io](mailto:nicolas.sayer@stoik.io) with your LinkedIn profile, no resume required (5 min).
+1. **Apply**: Send an email to [tech-jobs@stoik.io](mailto:nicolas.sayer@stoik.io) with your LinkedIn profile, no resume required (5 min).
 2. **Initial Interview**: A video call to introduce Stoïk and discuss the role (30 min).
 3. **Technical Assessment**: Complete a take-home technical test (2 hours), followed by a review session via video call (1.5 hours).
 4. **On-site Interviews**: Meet the founders and team members at our Paris office (2 hours).
