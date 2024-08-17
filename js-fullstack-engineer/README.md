@@ -1,4 +1,4 @@
-# JS Full-stack Engineer
+# JS Full-stack Engineer — Technical test
 
 ## Introduction
 
