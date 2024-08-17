@@ -4,7 +4,7 @@
 
 ### Our mission is to secure Europe's economic fabric against cyber risk.
 
-As companies digitalize, the risks of cyber threats grow, leading to significant financial and operational challenges. Stoïk combines cutting-edge cybersecurity software with insurance solutions to help businesses manage and mitigate these risks. By partnering with over 1,000 insurance brokers across Europe, we empower them to help their clients effectively address and protect against cyber threats.
+The digitalization of companies has amplified cyber risk, posing significant financial and operational threats. Stoïk offers a unique solution that combines cybersecurity software with insurance, empowering businesses to manage and mitigate this risk. By partnering with over 1,000 insurance brokers across Europe, Stoïk equips them to guide clients in mastering cyber risk, protecting companies every day.
 
 
 ---
