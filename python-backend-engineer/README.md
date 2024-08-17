@@ -1,4 +1,6 @@
-# Introduction
+#  Python Back-end Engineer
+
+## Introduction
 
 We want to build an **URL Shortener** service (only the API). The API can be used to turn a long URL into a tiny URL.
 
@@ -8,28 +10,28 @@ A long URL might look like:
 
 And the service would turn it into a tiny URL that could look like this:
 
-> *https://<my-domain>/<slug>*
+> https://\<my-domain\>/\<slug\>
 
 When the user types this URL in its browser it is automatically redirected to the original URL via an HTTP redirect.
 
-***<my-domain>*** would be the domain of the API, for example tiny.io. For the purpose of this test, you can use localhost.
+***\<my-domain\>*** would be the domain of the API, for example tiny.io. For the purpose of this test, you can use localhost.
 
-***<slug>*** would be a random short string with letters and numbers. (eg. aY2Pv8, Lt1fov, 9vqp4g…)
+***\<slug\>*** would be a random short string with letters and numbers. (eg. aY2Pv8, Lt1fov, 9vqp4g…)
 
-# Requirements
+## Requirements
 
-## Must have
+### Must have
 
 - Build the API in Python
 - Use a SQL storage
 - **DO NOT** use an ORM
 - Think of edge cases and make sure your solution is robust. We will **challenge** you on this point, you don’t have to implement the perfect solution, but you should be able to **pitch** your vision in under 5 minutes.
 
-## Liberties
+### Liberties
 
 - The **random strings** generation does not have to be cryptographically secured
 
-## Nice to have
+### Nice to have
 
 If you have time you may go beyond the assignment. But this is not a feature contest !
 
@@ -39,7 +41,7 @@ If you have time you may go beyond the assignment. But this is not a feature con
 - Tests
 - Expiration dates on URLs
 
-# What we will look for
+## What we will look for
 
 Writing the code should be very straight forward, we are more interested in how you communicate, what is your vision, and how you solve issues.
 
