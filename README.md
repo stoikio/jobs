@@ -79,7 +79,7 @@ Stoïk is structured into two core teams and four supporting tech squads:
 ## FAQ
 
 - **Are you open to remote work?**  
-  Yes, but applicants must be based in the Paris area. We all enjoy coming to the office but still offer a flexible remote policy.
+  Yes, but applicants must be based in the Paris area. We offer a very flexible remote policy.
 
 - **What kind of contract is available?**  
   We are hiring for full-time positions only. Internships, part-time roles, and student positions are not available.
