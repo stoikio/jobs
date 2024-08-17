@@ -12,16 +12,16 @@ The digitalization of companies has amplified cyber risk, posing significant fin
 
 ## Open Positions
 
-- **JS Full-stack Engineer** (Web Application Squad)  
+- **JS Full-stack Engineer** in the _Application squad_  
   Technical test: [Link](https://google.com)
 
-- **Python Back-end Engineer** (Risk Squad)  
+- **Python Back-end Engineer** in the _Risk squad_  
   Technical test: [Link](https://google.com)
 
-- **Golang Back-end Engineer** (Cyber-tools Squad)  
+- **Golang Back-end Engineer** in the _Cyber-tools squad_  
   Technical test: [Link](https://google.com)
 
-- **DevOps Engineer** (Infra Squad)  
+- **DevOps Engineer** in the _Infra squad_  
   Technical test: [Link](https://google.com)
 
 
@@ -49,7 +49,7 @@ Stoïk is structured into two core teams and four supporting tech squads:
   - **Ideal for**: Those who enjoy transforming math and logic problems into code.
   - **Tech Stack**: Django, PostgreSQL.
 
-- **Web Application Squad**
+- **Application Squad**
   - **Focus**: Development and maintenance of Stoïk's main platform, [app.stoik.io](https://app.stoik.io).
   - **Ideal for**: Those passionate about creating top-notch user experiences.
   - **Tech Stack**: TypeScript, React, NestJS, PostgreSQL.
@@ -64,7 +64,8 @@ Stoïk is structured into two core teams and four supporting tech squads:
   - **Ideal for**: Those dedicated to maintaining a solid operational foundation.
   - **Tech Stack**: Kubernetes, Terraform.
 
-![Frame 7](https://github.com/user-attachments/assets/918a7194-eb6a-4e7f-90bb-181ae088a29a)
+![Stoïk teams](https://github.com/user-attachments/assets/1010d513-c4ee-432e-b526-178f76b76eef)
+
 
 
 ## Perks
