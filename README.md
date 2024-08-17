@@ -10,6 +10,14 @@ The digitalization of companies has amplified cyber risk, posing significant fin
 ---
 
 
+## Open positions
+
+- **JS Full-stack Engineer** in the _Web application squad_ — Technical test [here](https://google.com)
+- **Python Back-end Engineer** in the _Risk squad_ — Technical test [here](https://google.com)
+- **Golang Back-end Engineer** in the _Cyber-tools squad_ — Technical test [here](https://google.com)
+- **DevOps Engineer** in the _Infra squad_ — Technical test [here](https://google.com)
+
+
 ## Applying
 
 1. **Apply**: Send an email to [nicolas.sayer@stoik.io](mailto:nicolas.sayer@stoik.io) with your LinkedIn profile, no resume required (5 min).
@@ -20,20 +28,29 @@ The digitalization of companies has amplified cyber risk, posing significant fin
 If all goes well, we'll make you a full-time job offer.
 
 
-## The teams
+## The team
 
-Stoïk is structured into two core teams:
+Stoïk is structured in two teams and four supporting tech squads:
 
+### Teams:
 - **Business Team**: Focused on simplifying the sale of complex cyber-insurance policies, making it easier for brokers to protect their clients.
 - **Security Team**: Dedicated to safeguarding our clients from cyber threats, ensuring robust protection and peace of mind.
 
+### Tech squads
+- **Risk squad**: The core of our insurance and pricing model.
+  - People who love transforming math and logic problems in code. 
+  - _Tech stack: Django, PostgreSQL_.
+- **Web application squad**: Develop and maintain Stoïk's main platform, [app.stoik.io](https://app.stoik.io).
+  - People who love creating top-of-the-art user experiences.
+  - _Tech stack: TypeScript, React, NestJS, PostgreSQL_.
+- **Cyber-tools squad**: Develop cyber-tools that protect our clients.
+  - People who loves (or want to learn) cybersecurity software development.
+  - _Tech stack: Golang, Kubernetes_.
+- **Infra squad**: Manage the infrastructure of the above teams + the data team + assist in resolving cyber incidents.
+  - People making sure the ship is solid.
+  - _Tech stack: Kubernetes, Terraform_.
 
-## Open positions
-
-- **JS Full-stack Engineer**: Develop and maintain Stoïk's main platform, [app.stoik.io](https://app.stoik.io). _Tech stack: TypeScript, React, NestJS, PostgreSQL_.
-- **Python Back-end Engineer**: Work on the Risk Management API, the core of our insurance and pricing models. _Tech stack: Django, PostgreSQL_.
-- **Golang Back-end Engineer**: Develop cyber-tools that protect our clients. _Tech stack: Golang, Kubernetes_.
-- **DevOps Engineer**: Manage Stoïk’s infrastructure and assist in resolving cyber incidents. _Tech stack: Kubernetes, Terraform_.
+![Frame 7](https://github.com/user-attachments/assets/260f71e5-bea3-43bc-bd64-94ead3a3898a)
 
 
 ## Perks
