@@ -13,16 +13,16 @@ The digitalization of companies has amplified cyber risk, posing significant fin
 ## Open positions
 
 - **JS Full-stack Engineer** in the _Application squad_  
-  Technical test: [Link](https://google.com)
+  Technical test: [Link](https://github.com/stoikio/jobs/tree/main/js-fullstack-engineer)
 
 - **Python Back-end Engineer** in the _Risk squad_  
-  Technical test: [Link](https://google.com)
+  Technical test: [Link](https://github.com/stoikio/jobs/tree/main/python-backend-engineer)
 
-- **Golang Back-end Engineer** in the _Cyber-tools squad_  
-  Technical test: [Link](https://google.com)
+- **Go Back-end Engineer** in the _Cyber-tools squad_  
+  Technical test: [Link](https://github.com/stoikio/jobs/tree/main/go-backend-engineer)
 
 - **DevOps Engineer** in the _Infra squad_  
-  Technical test: [Link](https://google.com)
+  Technical test: [Link](https://github.com/stoikio/jobs/tree/main/devops-engineer)
 
 
 ## How to apply
