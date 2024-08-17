@@ -10,7 +10,7 @@ A long URL might look like:
 
 And the service would turn it into a tiny URL that could look like this:
 
-> *https://\<my-domain\>/\<slug\>*
+> https://\<my-domain\>/\<slug\>
 
 When the user types this URL in its browser it is automatically redirected to the original URL via an HTTP redirect.
 

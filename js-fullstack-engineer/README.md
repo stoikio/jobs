@@ -10,7 +10,7 @@ A long URL might look like:
 
 And the service would turn it into a tiny URL that could look like this:
 
-> *https://\<my-domain\>/\<slug\>*
+> https://\<my-domain\>/\<slug\>
 
 ***\<my-domain\>*** would be the domain of the API, in our case [localhost:3000](http://localhost:3000) is fine. 
 
