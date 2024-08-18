@@ -8,9 +8,7 @@ As companies embrace digitalization, cyber risks have become a significant finan
 
 Learn more: www.stoik.com.
 
-
 ---
-
 
 ## Open positions
 
@@ -26,7 +24,6 @@ Learn more: www.stoik.com.
 - **DevOps Engineer** in the _Infra squad_  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/devops-engineer/README.md)
 
-
 ## How to apply
 
 1. **Apply**: Send an email to [tech-jobs@stoik.io](mailto:tech-jobs@stoik.io) with your LinkedIn profile, no resume required (5 min).
@@ -36,27 +33,31 @@ Learn more: www.stoik.com.
 
 If all goes well, we'll make you a full-time job offer.
 
-
 ## Our teams
 
 Stoïk is structured into two core teams and four supporting tech squads:
 
 ### Core teams:
+
 - **Business Team**: Streamlining the sale of complex cyber-insurance policies, making it as easy as possible to equip new clients.
 - **Security Team**: Focuses on safeguarding our clients from cyber threats, ensuring robust protection and peace of mind.
 
 ### Tech squads:
+
 - **Risk squad**
+
   - **Focus**: Core of our insurance and pricing model.
   - **Ideal for**: Those who enjoy transforming math and logic problems into code.
   - **Tech Stack**: Django, PostgreSQL.
 
 - **Application squad**
+
   - **Focus**: Development and maintenance of Stoïk's main platform, [app.stoik.io](https://app.stoik.io).
   - **Ideal for**: Those enthusiastic about creating top-notch user experiences.
   - **Tech Stack**: TypeScript, React, NestJS, PostgreSQL.
 
 - **Cyber-tools squad**
+
   - **Focus**: Development of cyber-tools to protect our clients.
   - **Ideal for**: Those passionate about (or eager to learn) cybersecurity software development.
   - **Tech Stack**: Golang, Kubernetes.
@@ -68,15 +69,13 @@ Stoïk is structured into two core teams and four supporting tech squads:
 
 ![Our teams](https://github.com/user-attachments/assets/329ac363-9b47-40c6-a88c-0977d3c63111)
 
-
 ## Perks
 
 - **High-end Equipment**: Access to top-tier computer and tech tools.
 - **Challenging Work**: Solve complex engineering problems within a highly motivated team (only 1 tech team member has left since Stoïk’s creation).
-- **Prime Location**: Modern office in central Paris (France). 
+- **Prime Location**: Modern office in central Paris (France).
 - **Flexibility**: Flexible remote work policy and generous time off.
 - **Comprehensive Benefits**: Full French social benefits including health care, meal vouchers, and commuting support.
-
 
 ## FAQ
 
@@ -98,8 +97,6 @@ Stoïk is structured into two core teams and four supporting tech squads:
 - **Do you offer equity?**  
   Yes, every team member is provided with equity as part of their compensation package.
 
-
 ---
-
 
 Ready to help secure Europe’s digital landscape? [Apply now](mailto:tech-jobs@stoik.io) and join us at Stoïk!

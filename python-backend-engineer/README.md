@@ -14,9 +14,9 @@ And the service would turn it into a tiny URL that could look like this:
 
 When the user types this URL in its browser it is automatically redirected to the original URL via an HTTP redirect.
 
-***\<my-domain\>*** would be the domain of the API, for example tiny.io. For the purpose of this test, you can use localhost.
+**_\<my-domain\>_** would be the domain of the API, for example tiny.io. For the purpose of this test, you can use localhost.
 
-***\<slug\>*** would be a random short string with letters and numbers. (eg. aY2Pv8, Lt1fov, 9vqp4g…)
+**_\<slug\>_** would be a random short string with letters and numbers. (eg. aY2Pv8, Lt1fov, 9vqp4g…)
 
 ## Requirements
 

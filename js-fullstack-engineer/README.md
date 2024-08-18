@@ -12,9 +12,9 @@ And the service would turn it into a tiny URL that could look like this:
 
 > https://\<my-domain\>/\<slug\>
 
-***\<my-domain\>*** would be the domain of the API, in our case [localhost:3000](http://localhost:3000) is fine. 
+**_\<my-domain\>_** would be the domain of the API, in our case [localhost:3000](http://localhost:3000) is fine.
 
-***\<slug\>*** would be a random short string with letters and numbers. (eg. aY2Pv8, Lt1fov, 9vqp4g…)
+**_\<slug\>_** would be a random short string with letters and numbers. (eg. aY2Pv8, Lt1fov, 9vqp4g…)
 
 When the user types this URL (eg. http://localhost:3000/aY2Pv8) in its browser it is automatically redirected to the original URL via an HTTP redirect.
 
@@ -25,8 +25,8 @@ When the user types this URL (eg. http://localhost:3000/aY2Pv8) in its browser i
 - Build the API in Node using Typescript
 - Use a SQL storage (via Docker or a solution like SQLite)
 - The README should explain how to run your project **locally** in dev mode
-    - Ideally: `npm install` followed by `npm start`
-    - You can assume the reader has Node and Docker install (If you need Docker at all…)
+  - Ideally: `npm install` followed by `npm start`
+  - You can assume the reader has Node and Docker install (If you need Docker at all…)
 - Think of edge cases and make sure your solution is robust. We will **challenge** you on this point, you don’t have to implement the perfect solution, but you should be able to **pitch** your vision in under 5 minutes.
 
 ### Liberties
