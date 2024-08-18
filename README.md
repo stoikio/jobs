@@ -42,7 +42,7 @@ If all goes well, we'll make you a full-time job offer.
 Stoïk is structured into two core teams and four supporting tech squads:
 
 ### Core teams:
-- **Business Team**: Simplifies the sale of complex cyber-insurance policies, making it easier for brokers to protect their clients.
+- **Business Team**: Streamlining the sale of complex cyber-insurance policies, making it as easy as possible to equip new clients.
 - **Security Team**: Focuses on safeguarding our clients from cyber threats, ensuring robust protection and peace of mind.
 
 ### Tech squads:
