@@ -15,16 +15,16 @@ Learn more: www.stoik.com.
 ## Open positions
 
 - **JS Full-stack Engineer** in the _Application squad_  
-  Technical test: [Link](https://github.com/stoikio/jobs/tree/main/js-fullstack-engineer)
+  Technical test: [Link](https://github.com/stoikio/jobs/blob/main/js-fullstack-engineer/README.md)
 
 - **Python Back-end Engineer** in the _Risk squad_  
-  Technical test: [Link](https://github.com/stoikio/jobs/tree/main/python-backend-engineer)
+  Technical test: [Link](https://github.com/stoikio/jobs/blob/main/python-backend-engineer/README.md)
 
 - **Go Back-end Engineer** in the _Cyber-tools squad_  
-  Technical test: [Link](https://github.com/stoikio/jobs/tree/main/go-backend-engineer)
+  Technical test: [Link](https://github.com/stoikio/jobs/blob/main/go-backend-engineer/README.md)
 
 - **DevOps Engineer** in the _Infra squad_  
-  Technical test: [Link](https://github.com/stoikio/jobs/tree/main/devops-engineer)
+  Technical test: [Link](https://github.com/stoikio/jobs/blob/main/devops-engineer/README.md)
 
 
 ## How to apply
