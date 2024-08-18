@@ -32,7 +32,7 @@ Learn more: www.stoik.com.
 1. **Apply**: Send an email to [tech-jobs@stoik.io](mailto:tech-jobs@stoik.io) with your LinkedIn profile, no resume required (5 min).
 2. **Initial Interview**: A video call to introduce Stoïk and discuss the role (30 min).
 3. **Technical Assessment**: Complete a take-home technical test (2 hours), followed by a review session via video call (1.5 hours).
-4. **On-site Interviews**: Meet the founders and team members at our Paris office (2 hours).
+4. **On-site Interviews**: Meet the founders and the rest of the tech team at our Paris office (2 hours).
 
 If all goes well, we'll make you a full-time job offer.
 
