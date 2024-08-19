@@ -60,7 +60,7 @@ Stoïk is structured into two core teams and four supporting tech squads:
 
   - **Focus**: Development of cyber-tools to protect our clients.
   - **Ideal for**: Those passionate about (or eager to learn) cybersecurity software development.
-  - **Tech Stack**: Golang, Kubernetes.
+  - **Tech Stack**: Golang, Kubernetes, PostgreSQL.
 
 - **Infra squad**
   - **Focus**: Management of the infrastructure for the squads, and assistance with cyber incident resolution.
