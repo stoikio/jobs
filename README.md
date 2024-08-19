@@ -100,3 +100,5 @@ Stoïk is structured into two core teams and four supporting tech squads:
 ---
 
 Ready to help secure Europe’s digital landscape? [Apply now](mailto:tech-jobs@stoik.io) and join us at Stoïk!
+
+![2024 02-STOIK-REPORTAGE-WEB 70-©VALENTIN NAUTON-08900-min-min](https://github.com/user-attachments/assets/9529440c-0909-446d-944f-fe504d14ff4a)
