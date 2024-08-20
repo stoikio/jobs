@@ -85,6 +85,9 @@ Stoïk is structured into two core teams and four supporting tech squads:
 - **What kind of contract is available?**  
   We are hiring for full-time positions only. Internships, part-time roles, and student positions are not available.
 
+- **What language is primarily used at Stoïk?**  
+  All written communication is in English, and all oral communication is in French. Being fluent in French is a must-have.
+
 - **What is the size of the team?**  
   Stoïk has a team of 60 members, including 15 engineers working in the tech-team.
 
