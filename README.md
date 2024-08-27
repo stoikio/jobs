@@ -30,9 +30,9 @@ Learn more: www.stoik.com.
 
 The entire process can take **less than a week** if you are willing to move fast!
 
-1. **Apply**: Send us an email to [tech-jobs@stoik.io](mailto:tech-jobs@stoik.io) with your **LinkedIn profile** and the **position** you are applying to, no resume nor cover letter required (5 min). We will reply and plan a time slot for next step.
-2. **Initial Interview**: Meet us in a video call to introduce Stoïk and discuss the role (30 min). The goal is to find out if Stoïk is right for you and decide if we both want to move to next step.
-3. **Technical Assessment**: Complete the take-home technical test (~2 hours by yourself, not timed), followed by a review session via video call (1.5 hours together). The goal of this discussion is for us to understand what you would have done with more time if we wanted to go to production, explain edge cases that you might not had time to tackle, and open the discussion about potential next features... We are not judging the code you wrote, we are judging your ability to identify, explain, and solve edge cases as well as your ability to anticipate next steps without necessarily coding everything.
+1. **Apply**: Send us an email to [tech-jobs@stoik.io](mailto:tech-jobs@stoik.io) with your **LinkedIn profile** and the **position** you are applying to, no resume nor cover letter required (5 min). 
+2. **Initial Interview**: Meet us in a video call to introduce Stoïk and discuss the role (30 min).
+3. **Technical Assessment**: Complete the take-home technical test (~2 hours by yourself, not timed), followed by a review session via video call (1.5 hours together).
 4. **On-site Interviews**: Meet the founders and the rest of the tech team at our Paris office (2 hours).
 
 If all goes well, we'll make you a full-time job offer.
