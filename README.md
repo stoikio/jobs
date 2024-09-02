@@ -12,8 +12,6 @@ Learn more: www.stoik.com.
 
 ## Open positions
 
-🚨 **No need** to complete the technical test before our first interview.
-
 - **JS Full-stack Engineer** in the _Application squad_  (min **3y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/js-fullstack-engineer/README.md)
 
