@@ -66,7 +66,7 @@ Stoïk is structured into two core teams and four supporting tech squads:
   - **Tech Stack**: Python, Flask, PostgreSQL.
 
 - **Infra squad**
-  - **Focus**: Management of the infrastructure for the squads, and assistance with cyber incident resolution.
+  - **Focus**: Management of the infrastructure for the above squads, and assistance with cyber incident resolution.
   - **Ideal for**: Those dedicated to maintaining a solid operational foundation.
   - **Tech Stack**: Terraform, Kubernetes, CI/CD, AWS.
 
