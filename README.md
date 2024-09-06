@@ -15,11 +15,11 @@ Learn more: www.stoik.com.
 - **JS Full-stack Engineer** in the _Application squad_  (min **3y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/js-fullstack-engineer/README.md)
 
-- **Python Back-end Engineer** in the _Risk squad_ (min **3y** of experience)  
-  Technical test: [Link](https://github.com/stoikio/jobs/blob/main/python-backend-engineer/README.md)
-
 - **Go Back-end Engineer** in the _Cyber-tools squad_ (min **5y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/go-backend-engineer/README.md)
+
+- **Python Back-end Engineer** in the _Risk squad_ (min **3y** of experience)  
+  Technical test: [Link](https://github.com/stoikio/jobs/blob/main/python-backend-engineer/README.md)
 
 - **DevOps Engineer** in the _Infra squad_ (min **5y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/devops-engineer/README.md)
@@ -46,11 +46,6 @@ Stoïk is structured into two core teams and four supporting tech squads:
 
 ### Tech squads:
 
-- **Risk squad**
-
-  - **Focus**: Core of our insurance and pricing model.
-  - **Ideal for**: Those who enjoy transforming math and logic problems into code.
-  - **Tech Stack**: Python, Flask, PostgreSQL.
 
 - **Application squad**
 
@@ -63,6 +58,12 @@ Stoïk is structured into two core teams and four supporting tech squads:
   - **Focus**: Development of cyber-tools to protect our clients.
   - **Ideal for**: Those passionate about (or eager to learn) cybersecurity software development.
   - **Tech Stack**: Golang, Kubernetes, PostgreSQL.
+
+- **Risk squad**
+
+  - **Focus**: Core of our insurance and pricing model.
+  - **Ideal for**: Those who enjoy transforming math and logic problems into code.
+  - **Tech Stack**: Python, Flask, PostgreSQL.
 
 - **Infra squad**
   - **Focus**: Management of the infrastructure for the squads, and assistance with cyber incident resolution.
