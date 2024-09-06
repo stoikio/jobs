@@ -50,7 +50,7 @@ Stoïk is structured into two core teams and four supporting tech squads:
 
   - **Focus**: Core of our insurance and pricing model.
   - **Ideal for**: Those who enjoy transforming math and logic problems into code.
-  - **Tech Stack**: Flask, PostgreSQL.
+  - **Tech Stack**: Python, Flask, PostgreSQL.
 
 - **Application squad**
 
