@@ -12,6 +12,9 @@ Learn more: www.stoik.com.
 
 ## Open positions
 
+- **Typescript Fullstack Engineer** in the _App squad_ (min **3y** of experience)  
+  Technical test: [Link](https://github.com/stoikio/jobs/blob/main/js-fullstack-engineer/README.md)
+
 - **Go Back-end Engineer** in the _Cyber-tools squad_ (min **5y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/go-backend-engineer/README.md)
 
