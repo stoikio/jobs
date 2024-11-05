@@ -15,9 +15,6 @@ Learn more: www.stoik.com.
 - **Go Back-end Engineer** in the _Cyber-tools squad_ (min **5y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/go-backend-engineer/README.md)
 
-- **Python Back-end Engineer** in the _Risk squad_ (min **3y** of experience)  
-  Technical test: [Link](https://github.com/stoikio/jobs/blob/main/python-backend-engineer/README.md)
-
 ## How to apply?
 
 The entire process can take **less than a week** if you are willing to move fast!
