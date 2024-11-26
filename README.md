@@ -65,11 +65,11 @@ Stoïk is structured into two core teams and four supporting tech squads:
 
 ## Perks
 
-- **High-end Equipment**: Access to top-tier computer and tech tools.
-- **Challenging Work**: Solve complex engineering problems within a highly motivated team.
-- **Prime Location**: Modern office in central Paris (France).
+- **High-end equipment**: Access to top-tier computer and tech tools.
+- **Challenging work**: Solve complex engineering problems within a highly motivated team.
+- **Prime location**: Modern office in central Paris (France).
 - **Flexibility**: Flexible remote work policy and generous time off.
-- **Comprehensive Benefits**: Full French social benefits including health care, meal vouchers, and commuting support.
+- **Comprehensive benefits**: Full French social benefits including health care, meal vouchers, and commuting support.
 
 ## FAQ
 
@@ -83,7 +83,7 @@ Stoïk is structured into two core teams and four supporting tech squads:
   All written communication is in English, and all oral communication is in French. Being fluent in French is a must-have.
 
 - **What is the size of the team?**  
-  Stoïk has a team of 60 members, including 15 engineers working in the tech-team.
+  Stoïk has a team of 80 members, including 20 engineers working in the tech-team.
 
 - **What is the typical work culture at Stoïk?**  
   We have a collaborative and fast-paced environment centered around innovation and teamwork. We value transparency, continuous learning, and personal growth.
