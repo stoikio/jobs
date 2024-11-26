@@ -38,25 +38,25 @@ Stoïk is structured into two core teams and four supporting tech squads:
 ### Tech squads:
 
 
-- **Application squad**
+- **Application squad:**
 
   - **Focus**: Development and maintenance of Stoïk's main platform, [app.stoik.io](https://app.stoik.io).
   - **Ideal for**: Those enthusiastic about creating top-notch user experiences.
   - **Tech Stack**: TypeScript, React, NestJS, PostgreSQL.
 
-- **Cyber-tools squad**
+- **Cyber-tools squad:**
 
   - **Focus**: Development of cyber-tools to protect our clients.
   - **Ideal for**: Those passionate about (or eager to learn) cybersecurity software development.
   - **Tech Stack**: Golang, Kubernetes, PostgreSQL.
 
-- **Risk squad**
+- **Risk squad:**
 
   - **Focus**: Core of our insurance and pricing model.
   - **Ideal for**: Those who enjoy transforming math and logic problems into code.
   - **Tech Stack**: Python, Flask, PostgreSQL.
 
-- **Infra squad**
+- **Infra squad:**
   - **Focus**: Management of the infrastructure for the above squads, and assistance with cyber incident resolution.
   - **Ideal for**: Those dedicated to maintaining a solid operational foundation.
   - **Tech Stack**: Terraform, Kubernetes, CI/CD, AWS.
