@@ -14,7 +14,7 @@ Learn more: www.stoik.com.
 
 - **Go Back-end Engineer** in the _Cyber-tools squad_ (min **5y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/go-backend-engineer/README.md)
-- **JS Full-stack Engineer** in the Application squad_ (min **5y** of experience)  
+- **JS Full-stack Engineer** in the _Application squad_ (min **5y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/js-fullstack-engineer/README.md)
 
 ## How to apply?
