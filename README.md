@@ -12,7 +12,7 @@ Learn more: www.stoik.com.
 
 ## Open positions
 
-- **DevOps Engineer** in the Infra squad_ (min **5y** of experience)  
+- **DevOps Engineer** in the _Infra squad_ (min **5y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/devops-engineer/README.md)
 - **JS Full-stack Engineer** in the _Application squad_ (min **5y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/js-fullstack-engineer/README.md)
