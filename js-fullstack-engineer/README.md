@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We want to build an **URL Shortener** service (only the API). The API can be used to turn a long URL into a tiny URL.
+We want to build an **URL Shortener** service. The app can be used to turn a long URL into a tiny URL.
 
 A long URL might look like:
 
@@ -22,7 +22,8 @@ When the user types this URL (eg. http://localhost:3000/aY2Pv8) in its browser i
 
 ### Must have
 
-- Build the API in Node using Typescript
+- Build the application using React & Typescript
+- Build the API using Node & Typescript
 - Use a SQL storage (via Docker or a solution like SQLite)
 - The README should explain how to run your project **locally** in dev mode
   - Ideally: `npm install` followed by `npm start`
