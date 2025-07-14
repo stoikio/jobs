@@ -14,8 +14,10 @@ Learn more: www.stoik.com.
 
 - **DevOps Engineer** in the _Infra squad_ (min **5y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/devops-engineer/README.md)
-- **JS Full-stack Engineer** in the _Application squad_ (min **5y** of experience)  
+- 2x **JS Full-stack Engineer** in the _Application squad_ (min **5y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/js-fullstack-engineer/README.md)
+- **Python Engineer** in the _Risk squad_ (min **5y** of experience)  
+  Technical test: [Link](https://github.com/stoikio/jobs/blob/main/python-backend-engineer/README.md)
 
 ## How to apply?
 
