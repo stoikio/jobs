@@ -18,6 +18,7 @@ Topics we are currently working on:
   - Harden ECS / EKS security
   - Restrict network exposition
 - Productivity / Quality of service:
+  - Deploy a new project that will handle 10M emails daily
   - Deploy tools for the CERT team
   - Improve CI efficiency and orchestration
 - Cost Management
