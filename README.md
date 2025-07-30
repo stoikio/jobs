@@ -83,7 +83,7 @@ Stoïk is structured into two core teams and four supporting tech squads:
   All written communication is in English, and all oral communication is in French. Being fluent in French is a must-have.
 
 - **What is the size of the team?**  
-  Stoïk has a team of 80 members, including 20 engineers working in the tech-team.
+  Stoïk has a team of 110 members, including 20 engineers working in the tech-team.
 
 - **What is the typical work culture at Stoïk?**  
   We have a collaborative and fast-paced environment centered around innovation and teamwork. We value transparency, continuous learning, and personal growth.
