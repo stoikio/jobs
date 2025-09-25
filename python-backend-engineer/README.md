@@ -16,7 +16,7 @@ When the user types this URL in its browser it is automatically redirected to th
 
 **_\<my-domain\>_** would be the domain of the API, for example tiny.io. For the purpose of this test, you can use localhost.
 
-**_\<slug\>_** would be a random short string with letters and numbers. (eg. aY2Pv8, Lt1fov, 9vqp4g…)
+**_\<slug\>_** would be a random short string with letters and numbers.
 
 ## Requirements
 
@@ -25,18 +25,14 @@ When the user types this URL in its browser it is automatically redirected to th
 - Build the API in Python
 - Use a SQL storage
 - **DO NOT** use an ORM
+- Shortening the same URL twice returns the same generated string
+- Dockerize the API
 - Think of edge cases and make sure your solution is robust. We will **challenge** you on this point, you don’t have to implement the perfect solution, but you should be able to **pitch** your vision in under 5 minutes.
-
-### Liberties
-
-- The **random strings** generation does not have to be cryptographically secured
 
 ### Nice to have
 
 If you have time you may go beyond the assignment. But this is not a feature contest !
 
-- Dockerize the API
-- Shortening the same URL twice returns the same generated string
 - Clicks counter
 - Tests
 - Expiration dates on URLs
