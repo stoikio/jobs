@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We want to build an **Email Security** service to flag emails with potential financial fraud attempts (fake president, fake supplier, etc.). We focus on clients that are using Google Workspace and Microsoft O365 so users and emails can be retrieved through relevant APIs. 
+We want to build an **Email Security** tool to flag emails with potential financial fraud attempts (fake president, fake supplier, etc.) that are received by our clients. We focus on clients that are using Google Workspace and Microsoft O365 so users and emails can be retrieved through relevant APIs. 
 
 The goal of this test is to:
 - design the entire system architecture.
@@ -21,7 +21,7 @@ The goal of this test is to:
 
 ### Liberties 
 
-You can assume the following functions (or very similar variants) exist for both providers (and mock them).
+You can assume the following functions (or very similar variants) exist (and mock them).
 
 ```go
 func GetMicrosoftUsers(tenantID uuid.UUID) ([]MicrosoftUser, error) 
@@ -36,3 +36,4 @@ func GetGoogleEmails(userID string, receivedAfter time.Time) ([]GoogleEmail, err
 
 - Do you have interesting ideas and can execute efficiently?
 - Are you able to switch from macro view to micro details?
+- Is the discussion constructive?
