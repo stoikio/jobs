@@ -26,8 +26,8 @@ You can assume the following functions (or very similar variants) exist (and moc
 ```go
 func GetMicrosoftUsers(tenantID uuid.UUID) ([]MicrosoftUser, error) 
 func GetMicrosoftEmails(userID uuid.UUID, receivedAfter time.Time) ([]MicrosoftEmail, error)
-func GetGoogleUsers(domain string) ([]GoogleUser, error)
-func GetGoogleEmails(userID string, receivedAfter time.Time) ([]GoogleEmail, error)
+func GetGoogleUsers(domain uuid.UUID) ([]GoogleUser, error)
+func GetGoogleEmails(userID uuid.UUID, receivedAfter time.Time) ([]GoogleEmail, error)
 
 ```
 
