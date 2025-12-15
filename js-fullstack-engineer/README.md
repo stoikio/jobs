@@ -1,56 +1,76 @@
-# JS Full-stack Engineer — Technical test
+# JS Full-Stack Engineer — Technical Test
 
 ## Introduction
 
-We want to build an **URL Shortener** service. The app can be used to turn a long URL into a tiny URL.
+We want you to build a **URL shortener** service. The application can be used to turn a long link into a shorter one (e.g.  
+`https://www.stoik.com/barometre-ifop-2025-eti-risque-cyber` → `https://localhost/ABC123`) that **redirects** to the original URL.
 
-A long URL might look like:
+It looks simple, but it quickly raises real-world questions around reliability, security, data modeling, and scalability.
 
-> https://medium.com/equify-tech/the-three-fundamental-stages-of-an-engineering-career-54dac732fc74
+Your goal is to build a **simple, clean, working** version that we’ll review together during the interview.
 
-And the service would turn it into a tiny URL that could look like this:
+> **Important:** please **send us your project via a GitHub repository link** _before_ the interview.  
+> Make sure your full stack is **ready and running locally** for the interview, as we’ll review the application together.
 
-> https://\<my-domain\>/\<slug\>
+---
 
-**_\<my-domain\>_** would be the domain of the API, in our case [localhost:3000](http://localhost:3000) is fine.
+## Technical must-haves
 
-**_\<slug\>_** would be a random short string with letters and numbers. (eg. aY2Pv8, Lt1fov, 9vqp4g…)
+### Frontend
 
-When the user types this URL (eg. http://localhost:3000/aY2Pv8) in its browser it is automatically redirected to the original URL via an HTTP redirect.
+- **React** + **TypeScript**
+- A single, straightforward form to shorten a valid URL
+- A clean and pleasant **UI/UX** (simple is fine, but it should feel polished)
 
-## Requirements
+### Backend
 
-### Must have
+- At least **one API endpoint** to shorten a URL
+- Working redirection from short URLs
+- A **SQL database** (PostgreSQL, SQLite, etc.)
 
-- Build the application using React & Typescript
-- Build the API using Node & Typescript
-- Use a SQL storage (via Docker or a solution like SQLite)
-- The README should explain how to run your project **locally** in dev mode
-  - Ideally: `npm install` followed by `npm start`
-  - You can assume the reader has Node and Docker install (If you need Docker at all…)
-- Think of edge cases and make sure your solution is robust. We will **challenge** you on this point, you don’t have to implement the perfect solution, but you should be able to **pitch** your vision in under 5 minutes.
+### General
 
-### Liberties
+- A **README.md** explaining:
+  - How to run the project locally
+  - Your main technical choices
+  - Any assumptions or shortcuts
+- The project should be easy for someone else to install and run
+- No need to host the application
 
-- Use whichever **lib** or **framework** you like (Express, Koa, NestJs, Prisma, Knex, Kysely…)
-- If you can write the backend in 40 lines of code that is fine, don’t feel obligated to integrate complexe design patterns or libraries.
-- You can generate **random strings** using a library like [nanoid](https://www.npmjs.com/package/nanoid), you do not have to implement it yourself, it does not have to be cryptographically secured
-- You don’t have to worry about building, packaging, and hosting your project in production. Just make sure it is runnable on localhost.
-- Don’t bother with https and domain names. http://localhost:3000 is perfect
+---
 
-### Nice to have
+## Bonus features
 
-If you have time you may go beyond the assignment. But this is not a feature contest !
+Totally optional. If you add extras, focus on things that make sense from a product or technical point of view, rather than sheer complexity.
 
-- Tests (very basic, does not have to be 100% coverage)
-- Shortening the same URL twice returns the same generated string
-- Expiration dates on URLs
-- Clicks counter
+---
 
-## What we will look for
+## What we’ll look at during the interview
 
-Writing the code should be very straight forward, we are more interested in how you communicate, what is your vision, and how you solve issues.
+- A working stack (frontend, backend, database) that we can run together
+- Clear explanations of your decisions, trade-offs, and next steps
+- A **product-oriented** implementation, including user experience
+- Your thinking around **scaling**, **security**, and production readiness
+- Code quality and general technical best practices
 
-- Can you explain your decision process?
-- What would you do to go to production?
-- How would you implement more complex features?
+---
+
+## Note about using AI
+
+Using AI tools is totally fine (Cursor, Copilot, ChatGPT, etc.).
+
+- Review everything you use
+- Be able to **explain all the code**
+- Treat AI as an assistant, not a black box
+
+Transparency about AI usage is appreciated.
+
+---
+
+## Final notes
+
+- Keep things **simple**, but **correct**
+- Prefer clarity over cleverness
+- There’s no single “right” solution — we care about your reasoning
+
+We’re looking forward to discussing your implementation with you!
