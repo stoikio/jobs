@@ -24,6 +24,7 @@ Your goal is to build a **simple, clean, working** version that we’ll review t
 
 ### Backend
 
+- **Node** + **TypeScript**
 - At least **one API endpoint** to shorten a URL
 - Working redirection from short URLs
 - A **SQL database** (PostgreSQL, SQLite, etc.)
