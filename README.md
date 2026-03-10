@@ -1,6 +1,6 @@
 # Tech jobs @ Stoïk
 
-![We're hiring](https://github.com/user-attachments/assets/fc46d3c3-ade1-4418-9a34-d980f2ac1a40)
+![We're hiring](https://github.com/user-attachments/assets/6181080a-58cb-464b-900b-978d25c2316d)
 
 ### Our mission is to secure Europe's economic fabric against cyber risk.
 
