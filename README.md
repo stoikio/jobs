@@ -1,6 +1,8 @@
 # Tech jobs @ Stoïk
 
-![We're hiring](https://github.com/user-attachments/assets/6181080a-58cb-464b-900b-978d25c2316d)
+<a href="https://www.welcometothejungle.com/fr/companies/stoik/jobs" target="_blank">
+  <img alt="We're hiring" src="https://github.com/user-attachments/assets/132e221b-d2dc-4197-9429-0cad154ab67a" />
+</a>
 
 ### Our mission is to secure Europe's economic fabric against cyber risk.
 
