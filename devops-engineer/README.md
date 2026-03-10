@@ -28,7 +28,8 @@ Topics we are currently working on:
 ## Interview process
 
 The whole process consists of 3 interviews:
-- One "fit" call with one or more team members
+- One screening call with our Talent acquisition manager
+-  One "fit" call with one or more team members
 - A technical test (see below for more details)
 - An on-site discussion with all 4 founders
 
