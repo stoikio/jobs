@@ -13,23 +13,22 @@ Nice to have:
 - Networking knowledge
 - Observability (Datadog, Grafana, Cloudwatch or any similar tools)
 
-Topics we are currently working on:
+Topics we are currently working on, or plan to work on:
 - Security
   - Harden ECS / EKS security
   - Restrict network exposition
 - Productivity / Quality of service:
-  - Deploy a new project that will handle 10M emails daily
-  - Deploy tools for the CERT team
-  - Improve CI efficiency and orchestration
+  - Deploy an internal registry (Harbor)
+  - Explore Datadog churn
 - Cost Management
   - Migration to ARM
-  - Optimization of EKS usage
+  - EKS FinOps
 
 ## Interview process
 
-The whole process consists of 3 interviews:
+The whole process consists of 4 interviews:
 - One screening call with our Talent acquisition manager
--  One "fit" call with one or more team members
+- One "fit" call with one or more team members
 - A technical test (see below for more details)
 - An on-site discussion with all 4 founders
 
