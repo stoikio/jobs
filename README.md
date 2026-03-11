@@ -23,45 +23,33 @@ Learn more: www.stoik.com.
 
 The entire process can take **less than a week** if you are willing to move fast!
 
-1. **Apply**: Send us an email at [tech-jobs@stoik.io](mailto:tech-jobs@stoik.io) with your LinkedIn profile and the position you are applying to, no resume nor cover letter required (5 min). 
+1. **Apply**: Send us an email at [alix.vandame@stoik.io](mailto:alix.vandame@stoik.io) with your LinkedIn profile and the position you are applying to, no resume nor cover letter required (5 min). 
 2. **Initial Interview**: Meet us in a video call to introduce Stoïk and discuss the role (30 min).
 3. **Technical Assessment**: Complete the take-home technical test (~2 hours by yourself, not timed), followed by a review session via video call (1h30 together).
 4. **On-site Interviews**: Meet the founders and the rest of the tech team in our Paris office (2 hours).
 
 If all goes well, we'll make you a full-time job offer.
 
-## Our teams
+## Our squads
 
-Stoïk is structured into two core teams and four supporting tech squads:
+Stoïk is structured into three tech squads:
 
-### Core teams:
-
-- **Business Team**: Streamlining the sale of complex cyber-insurance policies, making it as easy as possible to equip new clients.
-- **Security Team**: Focuses on safeguarding our clients from cyber threats, ensuring robust protection and peace of mind.
-
-### Tech squads:
-
-- **Application squad:**
-  - **Focus**: Development and maintenance of Stoïk's main platform, [app.stoik.io](https://app.stoik.io).
-  - **Ideal for**: Those enthusiastic about creating top-notch user experiences.
+- **Distribution squad:**
+  - **Focus**: Streamlining the sale of complex cyber-insurance policies, making it as easy as possible to equip new clients.
+  - **Ideal for**: Those enthusiastic about creating top-notch user experiences and who enjoy transforming complex business logic into elegant code.
   - **Tech Stack**: TypeScript, React, NestJS, PostgreSQL.
 
-- **Cyber-tools squad:**
-  - **Focus**: Development of cyber-tools to protect our clients.
-  - **Ideal for**: Those passionate about (or eager to learn) cybersecurity software development.
-  - **Tech Stack**: Golang, Kubernetes, PostgreSQL.
-
-- **Risk squad:**
-  - **Focus**: Core of our insurance and pricing model.
-  - **Ideal for**: Those who enjoy transforming math and logic problems into code.
-  - **Tech Stack**: Python, Flask, PostgreSQL.
+- **Security squad:**
+  - **Focus**: Focuses on safeguarding our clients from cyber threats, ensuring robust protection and peace of mind.
+  - **Ideal for**: Those who are eager to build software that has a direct, measurable impact on clients' safety.
+  - **Tech Stack**:
+    - TypeScript, React, NestJS, PostgreSQL;
+    - Golang, Kubernetes, PostgreSQL.
 
 - **Infra squad:**
   - **Focus**: Management of the infrastructure for the above squads, and assistance with cyber incident resolution.
   - **Ideal for**: Those dedicated to maintaining a solid operational foundation.
   - **Tech Stack**: Terraform, Kubernetes, CI/CD, AWS.
-
-![Our teams](https://github.com/user-attachments/assets/329ac363-9b47-40c6-a88c-0977d3c63111)
 
 ## Perks
 
