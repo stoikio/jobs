@@ -6,7 +6,7 @@
 
 ### Our mission is to secure Europe's economic fabric against cyber risk.
 
-Cyber risks have become a significant financial and operational threat for companies. Stoïk provides a unique solution that combines cybersecurity software with insurance, empowering businesses to manage and mitigate these risks. By partnering with over 1,000 insurance brokers across Europe, Stoïk helps clients effectively address and protect against cyber threats, securing their operations every day.
+Cyber attacks are one of the biggest threats facing companies, financially and operationally. Stoïk's answer is a combination of insurance and cybersecurity software: we don't just pay out when something goes wrong, we help prevent it in the first place. We work with over 1,000 brokers and 11,000 companies across Europe and are growing fast.
 
 Learn more: www.stoik.com.
 
@@ -16,74 +16,76 @@ Learn more: www.stoik.com.
 
 - **DevOps Engineer** in the _Infra squad_ (min **5y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/devops-engineer/README.md)
-- **JS Full-stack Engineer** in the _Application squad_ (min **5y** of experience)  
+- **JS Full-stack Engineer** in the _Distribution squad_ (min **5y** of experience)  
   Technical test: [Link](https://github.com/stoikio/jobs/blob/main/js-fullstack-engineer/README.md)
 
 ## How to apply?
 
-The entire process can take **less than a week** if you are willing to move fast!
+The whole process can take **under a week** if you are willing to move fast!
 
-1. **Apply**: Send us an email at [alix.vandame@stoik.io](mailto:alix.vandame@stoik.io) with your LinkedIn profile and the position you are applying to, no resume nor cover letter required (5 min). 
-2. **Initial Interview**: Meet us in a video call to introduce Stoïk and discuss the role (30 min).
-3. **Technical Assessment**: Complete the take-home technical test (~2 hours by yourself, not timed), followed by a review session via video call (1h30 together).
-4. **On-site Interviews**: Meet the founders and the rest of the tech team in our Paris office (2 hours).
+1. **Apply**: Email [alix.vandame@stoik.io](mailto:alix.vandame@stoik.io) with your LinkedIn and the role. No resume or cover letter needed (5 min).
+2. **Intro call**: A short video call where we walk you through Stoïk and the role (30 min).
+3. **Technical test**: A take-home exercise (~2 hours, untimed), followed by a review session on a video call (1h30).
+4. **On-site**: Come meet the founders and the rest of the team in our Paris office (2 hours).
 
-If all goes well, we'll make you a full-time job offer.
+If it's a fit on both sides, we'll make you an offer.
 
 ## Our squads
 
 Stoïk is structured into three tech squads:
 
 - **Distribution squad:**
-  - **Focus**: Streamlining the sale of complex cyber-insurance policies, making it as easy as possible to equip new clients.
-  - **Ideal for**: Those enthusiastic about creating top-notch user experiences and who enjoy transforming complex business logic into elegant code.
-  - **Tech Stack**: TypeScript, React, NestJS, PostgreSQL.
+  - **Focus**: Build the platform brokers and clients use to take out and manage cyber insurance policies.
+  - **Ideal if**: You care about product quality and get satisfaction from turning messy business logic into clean, reliable code.
+  - **Stack**: TypeScript, React, NestJS, PostgreSQL.
 
 - **Security squad:**
-  - **Focus**: Focuses on safeguarding our clients from cyber threats, ensuring robust protection and peace of mind.
-  - **Ideal for**: Those who are eager to build software that has a direct, measurable impact on clients' safety.
-  - **Tech Stack**:
+  - **Focus**: Build the tools that actually protect our clients — scanners, detection systems, response tooling.
+  - **Ideal if**: You want your work to have a direct impact on real companies' security.
+  - **Stack**:
     - TypeScript, React, NestJS, PostgreSQL;
     - Golang, Kubernetes, PostgreSQL.
 
 - **Infra squad:**
-  - **Focus**: Management of the infrastructure for the above squads, and assistance with cyber incident resolution.
-  - **Ideal for**: Those dedicated to maintaining a solid operational foundation.
-  - **Tech Stack**: Terraform, Kubernetes, CI/CD, AWS.
+  - **Focus**: Run and evolve the infrastructure everything else depends on.
+  - **Ideal if**: You like owning systems end-to-end and take pride in things not breaking.
+  - **Stack**: Terraform, Kubernetes, CI/CD, AWS.
 
 ## Perks
 
-- **High-end equipment**: Access to top-tier computer and tech tools.
-- **Challenging work**: Solve complex engineering problems within a highly motivated team (only 1 tech team member has left since Stoïk’s creation).
-- **Prime location**: Modern office in central Paris (France).
-- **Flexibility**: Flexible remote work policy and generous time off.
-- **Comprehensive benefits**: Full French social benefits including health care, meal vouchers, and commuting support.
+- **Good equipment**: Access to high-end hardware and the tools you need to do your best work.
+- **Hard problems, small team**: The engineering challenges here are genuinely difficult, and the team stays (only two person has left the tech team since Stoïk was founded).
+- **Central Paris office**: Modern space, good location.
+- **Flexible remote**: We don't count days in the office. Come in when it makes sense.
+- **Full French benefits**: Health cover, meal vouchers, and commuting support.
 
 ## FAQ
 
 - **Are you open to remote work?**  
-  Yes, but applicants must be based in the Paris area. We offer a very flexible remote policy.
+  Yes, but you need to be Paris-based. We have a flexible remote policy and don't track office days.
 
-- **What kind of contract is available?**  
-  We are hiring for full-time positions only. Internships, part-time roles, and student positions are not available.
+- **What contracts do you offer?**  
+  Full-time only. No internships, apprenticeships, or part-time roles.
 
-- **What language is primarily used at Stoïk?**  
-  All written communication is in English, and all oral communication is in French. Being fluent in French is a must-have.
+- **What language do you work in?**  
+  Written communication is in English, spoken is in French. You need to be fluent in French.
 
-- **What is the size of the team?**  
-  Stoïk has a team of 110 members, including 20 engineers working in the tech-team.
+- **How big is the team?**  
+  140 people in total, including 25 engineers on the tech team.
 
-- **What is the typical work culture at Stoïk?**  
-  We have a collaborative and fast-paced environment centered around innovation and teamwork. We value transparency, continuous learning, and personal growth.
+- **What's the culture like?**  
+  Fast-moving and fairly direct. Low on process, high on ownership. We try to keep things simple and give people real responsibility early.
 
-- **What is the salary range for these positions?**  
-  We offer competitive salaries. Specific compensation details are discussed during the interview process.
+- **What's the salary range?**  
+  Competitive. We discuss specifics during the process.
 
-- **Do you offer equity?**  
-  Yes, every team member is provided with equity as part of their compensation package.
+- **Is there equity?**  
+  Yes, everyone gets equity.
+
+  
 
 ---
 
-Ready to help secure Europe’s digital landscape? [Apply now](mailto:tech-jobs@stoik.io) and join us at Stoïk!
+Interested? [Apply now](mailto:alix.vandame@stoik.io) and join us at Stoïk!
 
 ![2024 02-STOIK-REPORTAGE-WEB 70-©VALENTIN NAUTON-08900-min-min](https://github.com/user-attachments/assets/9529440c-0909-446d-944f-fe504d14ff4a)
