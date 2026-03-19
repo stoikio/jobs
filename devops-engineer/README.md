@@ -2,7 +2,7 @@
 
 
 ## Job desc
-We are looking for a qualified DevOps engineer, with a high degree of autonomy.
+We are looking for a qualified DevOps engineer, located in Paris or around, with a high degree of autonomy.
 Skills we are looking for:
 - Terraform (or any other IaC tool)
 - Kubernetes
