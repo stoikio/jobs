@@ -69,7 +69,7 @@ Stoïk is structured into three tech squads:
   Written communication is in English, spoken is in French. You need to be fluent in French.
 
 - **How big is the team?**  
-  140 people in total, including 25 engineers on the tech team.
+  200 people in total, including 40 engineers on the tech team.
 
 - **What's the culture like?**  
   Fast-moving and fairly direct. Low on process, high on ownership. We try to keep things simple and give people real responsibility early.
