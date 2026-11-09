@@ -14,7 +14,7 @@ Learn more: www.stoik.com.
 
 ## Open positions (2)
 
-- **JS Full-stack Engineer** in the _Distribution squad_
+- **Full-stack Engineer (JS)** in the _Distribution squad_
 - **Back-End Engineer (Golang/Python)** in the _Security squad_
 
 ## How to apply?
