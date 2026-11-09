@@ -14,10 +14,8 @@ Learn more: www.stoik.com.
 
 ## Open positions (2)
 
-- **DevOps Engineer** in the _Infra squad_ (min **5y** of experience)  
-  Technical test: [Link](https://github.com/stoikio/jobs/blob/main/devops-engineer/README.md)
-- **JS Full-stack Engineer** in the _Distribution squad_ (min **5y** of experience)  
-  Technical test: [Link](https://github.com/stoikio/jobs/blob/main/js-fullstack-engineer/README.md)
+- **JS Full-stack Engineer** in the _Distribution squad_
+- **Back-End Engineer (Golang/Python)** in the _Security squad_
 
 ## How to apply?
 
@@ -44,7 +42,7 @@ Stoïk is structured into three tech squads:
   - **Ideal if**: You want your work to have a direct impact on real companies' security.
   - **Stack**:
     - TypeScript, React, NestJS, PostgreSQL;
-    - Golang, Kubernetes, PostgreSQL.
+    - Golang, Python, Kubernetes, PostgreSQL.
 
 - **Infra squad:**
   - **Focus**: Run and evolve the infrastructure everything else depends on.
